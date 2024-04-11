@@ -1,0 +1,102 @@
+2024-04-11 13:32:14,134 loading vocabulary file /Users/rsha256/stat157/fin_model/vocab.txt
+2024-04-11 13:32:14,149 loading archive file /Users/rsha256/stat157/fin_model from cache at /Users/rsha256/stat157/fin_model
+2024-04-11 13:32:14,149 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2024-04-11 13:32:15,600 Initialization Done !!
+2024-04-11 13:34:11,564 loading vocabulary file /Users/rsha256/stat157/fin_model/vocab.txt
+2024-04-11 13:34:11,582 loading archive file /Users/rsha256/stat157/fin_model from cache at /Users/rsha256/stat157/fin_model
+2024-04-11 13:34:11,582 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2024-04-11 13:34:13,199 Initialization Done !!
+2024-04-11 13:34:27,450 loading vocabulary file /Users/rsha256/stat157/fin_model/vocab.txt
+2024-04-11 13:34:27,470 loading archive file /Users/rsha256/stat157/fin_model from cache at /Users/rsha256/stat157/fin_model
+2024-04-11 13:34:27,471 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2024-04-11 13:34:28,972 Initialization Done !!
+2024-04-11 13:34:56,573 loading vocabulary file /Users/rsha256/stat157/fin_model/vocab.txt
+2024-04-11 13:34:56,592 loading archive file /Users/rsha256/stat157/fin_model from cache at /Users/rsha256/stat157/fin_model
+2024-04-11 13:34:56,593 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2024-04-11 13:34:58,172 Initialization Done !!
+2024-04-11 13:35:09,217 loading vocabulary file /Users/rsha256/stat157/fin_model/vocab.txt
+2024-04-11 13:35:09,234 loading archive file /Users/rsha256/stat157/fin_model from cache at /Users/rsha256/stat157/fin_model
+2024-04-11 13:35:09,234 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2024-04-11 13:35:10,652 Initialization Done !!
+2024-04-11 13:36:27,743 loading vocabulary file /Users/rsha256/stat157/fin_model/vocab.txt
+2024-04-11 13:36:27,759 loading archive file /Users/rsha256/stat157/fin_model from cache at /Users/rsha256/stat157/fin_model
+2024-04-11 13:36:27,760 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2024-04-11 13:36:29,140 Initialization Done !!
